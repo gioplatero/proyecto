@@ -1,0 +1,32 @@
+﻿body {
+    background-image: url("Stock/fondologin2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#rec {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    width: 500px;
+    padding: 15px;
+    background: rgba(255, 255, 255, .70);
+    border-style: groove;
+}
+
+h2 {
+    background-color: #0099B1;
+    font-family: Verdana;
+    color: white;
+    font-size: 6ex;
+    text-align: center;
+}
+
+p{
+    font-size: 3ex;
+    font-family: Verdana;
+}
+

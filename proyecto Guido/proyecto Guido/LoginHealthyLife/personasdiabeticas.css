@@ -1,0 +1,52 @@
+﻿body {
+    background-image: url("Stock/fondologin2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+h1 {
+    background-color: #F38F2B;
+    font-family: Verdana;
+    color: white;
+    font-size: 5ex;
+    text-align: center;
+    margin-left: 30px;
+    margin-right:30px;
+}
+h2 {
+    background-color: #F38F2B;
+    font-family: Verdana;
+    color: white;
+    font-size: 2ex;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+p {
+    text-align: left;
+    font-family: Verdana;
+    color: black;
+    font-weight: normal;
+    font-size: 2ex;
+    background: #F9CE7E;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h3 {
+    font-family: Verdana;
+    color: white;
+    font-size: 4ex;
+    text-align: center;
+    background: black;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
+#img {
+    margin-left: 250px;
+}

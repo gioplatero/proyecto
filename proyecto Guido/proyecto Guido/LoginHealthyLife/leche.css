@@ -1,0 +1,32 @@
+﻿body {
+    background-image: url("Stock/leshe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+h1 {
+    background-color: #000000;
+    font-family: Verdana;
+    color: white;
+    font-size: 7ex;
+    text-align: center;
+}
+
+
+p {
+    text-align: left;
+    font-family: Arial;
+    color: black;
+    font-weight: normal;
+    background: #F9FACF;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#leche {
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}

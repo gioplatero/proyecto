@@ -1,0 +1,35 @@
+﻿body {
+    background-image: url("Stock/mani.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+p {
+    text-align: left;
+    font-family: Arial;
+    color: black;
+    font-weight: normal;
+    margin-left: 60px;
+    margin-right: 60px;
+    background: #FDEDB1;
+}
+
+h1 {
+    background-color: #000000;
+    font-family: Verdana;
+    color: white;
+    font-size: 7ex;
+    text-align: center;
+}
+
+h3 {
+    font-family: Verdana;
+    color: white;
+    font-size: 4ex;
+    text-align: center;
+    background: black;
+    margin-left: 40px;
+    margin-right: 40px;
+}

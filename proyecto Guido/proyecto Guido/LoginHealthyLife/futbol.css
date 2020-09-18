@@ -1,0 +1,33 @@
+﻿body {
+    background-image: url("Stock/fut.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+p {
+    text-align: left;
+    font-family: Arial;
+    color: black;
+    font-weight: normal;
+    background: #B9FFB0;
+}
+
+h2 {
+    background-color: #17C802;
+    font-family: Verdana;
+    color: white;
+    font-size: 7ex;
+    text-align: center;
+}
+
+h3 {
+    font-family: Verdana;
+    color: white;
+    font-size: 4ex;
+    text-align: center;
+    background: black;
+    margin-left: 150px;
+    margin-right: 150px;
+}

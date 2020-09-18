@@ -1,0 +1,35 @@
+﻿body {
+    background: #FAF7B3;
+}
+
+h2 {
+    background-color: #000000;
+    font-family: Verdana;
+    color: white;
+    font-size: 7ex;
+    text-align: center;
+}
+
+strong {
+    font-family: Verdana;
+    color: white;
+    font-size: 3ex;
+    text-align: center;
+    background: #000000;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+div {
+    text-align: left;
+    font-family: Arial;
+    color: black;
+    font-weight: normal;
+    background: #FCE3B5;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#egos {
+    margin-left: 300px;
+    margin-right: 300px;
+}

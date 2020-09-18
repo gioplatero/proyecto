@@ -1,0 +1,44 @@
+﻿body {
+     background-image: url("Stock/Carbohydrates.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+p {
+    text-align: left;
+    font-family: Arial;
+    color: black;
+    font-weight: normal;
+    background: #FACEB2;
+    font-size:  2ex;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+strong {
+    text-align: center;
+    font-family: Arial Black;
+    font-size: 3ex;
+    color: black;
+    font-weight: bold;
+}
+
+h1 {
+    background-color: #FA9F31;
+    font-family: Verdana;
+    color: white;
+    font-size: 7ex;
+    text-align: center;
+}
+
+h3 {
+    font-family: Verdana;
+    color: white;
+    font-size: 5ex;
+    text-align: center;
+    background: black;
+    margin-left: 150px;
+    margin-right: 150px;
+}

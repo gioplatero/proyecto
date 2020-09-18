@@ -1,0 +1,35 @@
+﻿body {
+     background-image: url("Stock/fondologin2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+
+#reg {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    width: 500px;
+    padding: 15px;
+    background: rgba(255, 255, 255, .60);
+    border-style: groove;
+}
+
+
+h1 {
+    background-color: #044C83;
+    font-family: Arial Black;
+    color: white;
+    font-size: 5ex;
+    justify-content:center;
+    display:flex;
+}
+
+h3 {
+    font-family: Bahnschrift;
+    color: black;
+    font-size: 4ex;
+}

@@ -1,0 +1,35 @@
+﻿body {
+    background-image: url("Stock/pescaos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+h1 {
+    background-color: #00B6E2;
+    font-family: Verdana;
+    color: white;
+    font-size: 7ex;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    font-family: Arial;
+    color: black;
+    font-weight: normal;
+    background: #CEF4FB;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h3 {
+    font-family: Verdana;
+    color: white;
+    font-size: 4ex;
+    text-align: center;
+    background: black;
+    margin-left: 150px;
+    margin-right: 150px;
+}

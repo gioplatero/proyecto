@@ -1,0 +1,24 @@
+﻿body {
+    background-image: url("Stock/fondologin2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+h1 {
+    font-family: Bahnschrift;
+    color: black;
+    font-size: 5ex;
+    text-align: center;
+    background: #045BB8;
+    color: white;
+}
+
+div {
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+    width: 500px;
+    padding: 15px;
+}

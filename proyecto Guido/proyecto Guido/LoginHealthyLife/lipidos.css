@@ -1,0 +1,46 @@
+﻿body {
+    background-image: url("Stock/lipidos.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+h1 {
+    background-color: #000000;
+    font-family: Verdana;
+    color: white;
+    font-size: 7ex;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana;
+    color: white;
+    font-size: 4.5ex;
+    text-align: center;
+    background: #A4E101;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h3 {
+    font-family: Verdana;
+    color: white;
+    font-size: 4ex;
+    text-align: center;
+    background: black;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+
+p {
+    text-align: left;
+    font-family: Arial;
+    color: black;
+    font-weight: normal;
+    background: #EEFACF;
+    margin-left: 20px;
+    margin-right: 20px;
+}

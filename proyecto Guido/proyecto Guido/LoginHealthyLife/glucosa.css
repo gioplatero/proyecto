@@ -1,0 +1,33 @@
+﻿body {
+    background-image: url("Stock/glucosa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+h1 {
+    background-color: #000000;
+    font-family: Verdana;
+    color: white;
+    font-size: 7ex;
+    text-align: center;
+}
+
+h2 {
+    background-color: #FA7025;
+    font-family: Verdana;
+    color: white;
+    font-size: 4ex;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    font-family: Arial;
+    color: black;
+    font-weight: normal;
+    background: #FDF2CB;
+    margin-right: 25px;
+    margin-left: 25px;
+}
